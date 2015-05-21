@@ -71,6 +71,7 @@ Desktop.ini
 **/App_Data/[Pp]review/
 **/App_Data/TEMP/
 **/App_Data/cache/
+**/App_Data/Umbraco.sdf
 **/media/
 Cached/
 
