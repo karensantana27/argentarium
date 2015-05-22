@@ -1,0 +1,14 @@
+{
+  "id": "249ba361-61ed-471f-8455-b846a24d4001",
+  "name": "Send email to karensantana.g@hotmail.com when submitted",
+  "form": "9347cc54-136e-46a8-96f4-2225eaa19a2e",
+  "active": true,
+  "workflowTypeId": "e96badd7-05be-4978-b8d9-b3d733de70a5",
+  "executesOn": "Submitted",
+  "settings": {
+    "Email": "karensantana.g@hotmail.com",
+    "Subject": "the form Login Page was submitted",
+    "Message": "the form Login Page was submitted, this is the list of values it contained, you can turn this email off under workflows in Umbraco Contour"
+  },
+  "sortOrder": 0
+}
