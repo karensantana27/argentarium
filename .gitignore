@@ -70,7 +70,7 @@ Desktop.ini
 Cached/
 
 # Ignore Umbraco web configuration file
-Web.config
+[Ww]eb.config
 
 # Don't ignore Umbraco packages (VisualStudio.gitignore mistakes this for a NuGet packages folder)
 # Make sure to include details from VisualStudio.gitignore BEFORE this
