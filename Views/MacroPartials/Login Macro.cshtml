@@ -5,6 +5,7 @@
 @using Umbraco.Web
 @using Umbraco.Web.Models
 @using Umbraco.Web.Controllers
+	
 
 
 @{
@@ -13,6 +14,7 @@
     var loginModel = new LoginModel();
     var loginStatusModel = Members.GetCurrentLoginStatus();
     
+
     Html.EnableClientValidation();
     Html.EnableUnobtrusiveJavaScript();
     Html.RequiresJs("/umbraco_client/ui/jquery.js");
@@ -60,7 +62,7 @@
     {
         <fieldset>
             <legend>Login</legend>
-            
+          
             @Html.ValidationSummary("loginModel", true)
     
             @Html.LabelFor(m => loginModel.Username)
