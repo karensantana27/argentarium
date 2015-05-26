@@ -41,6 +41,12 @@
     <key alias="StartCMSImportWizardAction">ייבא נתונים</key>
     <key alias="StartCMSImportChildDefinitionAction">צור הגדרות ילדים</key>
     <key alias="LastRunInfoAction">יומן משימות מתוזמנות</key>
+    <key alias="DeleteCMSImportAction">Delete</key>
+    <key alias="ExecuteCMSImportWizardAction">Execute</key>
+    <key alias="ScheduleCMSImportWizardAction">Schedule</key>
+    <key alias="StartCMSImportWizardAction">Import Data</key>
+    <key alias="StartCMSImportChildDefinitionAction">Create child definition</key>
+    <key alias="LastRunInfoAction">Scheduled task log</key>
   </area>
   <area alias="assignDomain">
     <key alias="addNew">הוסף דומיין חדש</key>

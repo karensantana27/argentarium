@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <language alias="de" intName="German" localName="Deutsch" lcid="7" culture="de-DE">
   <creator>
     <name>The Umbraco community</name>
@@ -34,6 +34,12 @@
     <key alias="translate">Übersetzen</key>
     <key alias="update">Aktualisieren</key>
     <key alias="unpublish">Veröffentlichung zurücknehmen</key>
+    <key alias="DeleteCMSImportAction">Delete</key>
+    <key alias="ExecuteCMSImportWizardAction">Execute</key>
+    <key alias="ScheduleCMSImportWizardAction">Schedule</key>
+    <key alias="StartCMSImportWizardAction">Import Data</key>
+    <key alias="StartCMSImportChildDefinitionAction">Create child definition</key>
+    <key alias="LastRunInfoAction">Scheduled task log</key>
   </area>
   <area alias="assignDomain">
     <key alias="addNew">Neue Domain hinzufügen</key>

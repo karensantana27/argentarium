@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <language alias="ru" intName="Russian" localName="русский" lcid="" culture="ru-RU">
   <creator>
     <name>The Umbraco community</name>
@@ -36,6 +36,12 @@
     <key alias="translate">Перевести</key>
     <key alias="unpublish">Скрыть</key>
     <key alias="update">Обновить</key>
+    <key alias="DeleteCMSImportAction">Delete</key>
+    <key alias="ExecuteCMSImportWizardAction">Execute</key>
+    <key alias="ScheduleCMSImportWizardAction">Schedule</key>
+    <key alias="StartCMSImportWizardAction">Import Data</key>
+    <key alias="StartCMSImportChildDefinitionAction">Create child definition</key>
+    <key alias="LastRunInfoAction">Scheduled task log</key>
   </area>
   <area alias="assignDomain">
     <key alias="addNew">Добавить новый домен</key>
@@ -777,7 +783,8 @@
     <key alias="editContentSendToPublish">Отослано на утверждение</key>
     <key alias="editContentSendToPublishText">Изменения отосланы на утверждение</key>
     <key alias="editMediaSaved">Медиа-элемент сохранен</key>
-    <key alias="editMediaSavedText"></key>
+    <key alias="editMediaSavedText">
+    </key>
     <key alias="editMemberSaved">Участник сохранен</key>
     <key alias="editStylesheetPropertySaved">Правило стиля CSS сохранено</key>
     <key alias="editStylesheetSaved">Стиль CSS сохранен</key>

@@ -36,6 +36,12 @@
     <key alias="translate">Přeložit</key>
     <key alias="update">Aktualizovat</key>
     <key alias="defaultValue">Výchozí hodnota</key>
+    <key alias="DeleteCMSImportAction">Delete</key>
+    <key alias="ExecuteCMSImportWizardAction">Execute</key>
+    <key alias="ScheduleCMSImportWizardAction">Schedule</key>
+    <key alias="StartCMSImportWizardAction">Import Data</key>
+    <key alias="StartCMSImportChildDefinitionAction">Create child definition</key>
+    <key alias="LastRunInfoAction">Scheduled task log</key>
   </area>
   <area alias="assignDomain">
     <key alias="permissionDenied">Přístup zakázán.</key>
@@ -655,11 +661,9 @@
     <key alias="paSimpleHelp">Jestliže chcete nastavit jenom jednoduchou ochranu prostřednictvím uživatelského jména a hesla</key>
   </area>
   <area alias="publish">
-    <key alias="contentPublishedFailedAwaitingRelease">
-      <![CDATA[
+    <key alias="contentPublishedFailedAwaitingRelease"><![CDATA[
       %0% nemůže být publikována, protože položka je naplánovaná k uvolnění.
-    ]]>
-    </key>
+    ]]></key>
     <key alias="contentPublishedFailedInvalid"><![CDATA[
       %0% nemůže být publikována, protože tyto vlastnosti: %1%  nesplňují validační pravidla.
     ]]></key>
