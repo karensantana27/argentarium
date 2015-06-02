@@ -3,9 +3,9 @@
     propertyEditors: [      
         {
             /*this must be a unique alias*/ 
-            alias: "My.MarkdownEditor",
+            alias: "My.MarkdownEditor2",
             /*the name*/
-            name: "MyMarkdown editor",
+            name: "MyMarkdown editor2",
             /*the html file we will load for the editor*/
             editor: {
                 view: "~/App_Plugins/MarkDownEditor/markdowneditor.html"
